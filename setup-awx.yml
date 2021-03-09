@@ -11,5 +11,5 @@
   become: yes
   user: caio
   roles:
-  - { role: Install AWX, tags: ["Install AWX"]}
+  - { role: Install AWX, tags: ["install_awx"]}
     
